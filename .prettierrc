@@ -1,19 +1,4 @@
 {
-  "importOrder": [
-    "^(react|redux|prop)(.*)$",
-    "^(classnames.*|.*scss)$",
-    "^(lodash|date-fns|qs)(.*)$",
-    "^@ott/(.*)$",
-    "^src/redux/(.*)$",
-    "^src/components/(.*)$",
-    "^src/utility/(.*)$",
-    "^src/constants/(.*)$",
-    "^src/hooks/(.*)&",
-    "^src/(.*)$",
-    "^[./]"
-  ],
-  "importOrderSeparation": true,
-  "experimentalBabelParserPluginsList": ["classProperties", "jsx", "decorators-legacy"],
   "printWidth": 100,
   "singleQuote": true,
   "trailingComma": "es5"
